@@ -1,0 +1,5 @@
+images/kvm-x86-rootfs/
+images/boot_root/
+images/linux_build/
+images/os_release.tar
+
